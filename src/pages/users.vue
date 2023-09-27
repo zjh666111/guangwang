@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Chall'
+const appName = 'Vome'
 </script>
 
 <template>
@@ -520,6 +520,11 @@ const appName = 'Chall'
 <style  scoped>
   .agreement {
     padding: 0px 25px;
+    font-size: 14px;
+    margin-bottom: 14px;
+    color: #fff;
+
+    background-color: black;
   }
   .T_title {
     font-size: 18px;
@@ -530,7 +535,7 @@ const appName = 'Chall'
   .T_content {
     font-size: 14px;
     margin-bottom: 12px;
-    color: #666;
+    /* color: #666; */
   }
   .title_content {
     font-size: 12px;

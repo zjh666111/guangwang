@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Chall'
+const appName = 'Vome'
 </script>
 
 <template>
@@ -423,9 +423,10 @@ const appName = 'Chall'
   .protocol {
     font-size: 14px;
     margin-bottom: 14px;
-    color: #666;
+    color: #fff;
     margin-left:6px;
     margin-right:6px;
+    background-color: black;
   }
   .bt {
     font-size: 20px;
