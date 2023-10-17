@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Vome'
+const appName = 'NaYo'
 </script>
 
 <template>
@@ -522,9 +522,9 @@ const appName = 'Vome'
     padding: 0px 25px;
     font-size: 14px;
     margin-bottom: 14px;
-    color: #fff;
+    color: #666666;
 
-    background-color: black;
+    background-color: #fff;
   }
   .T_title {
     font-size: 18px;

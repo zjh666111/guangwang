@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Vome'
+const appName = 'NaYo'
 </script>
 
 <template>
@@ -423,10 +423,10 @@ const appName = 'Vome'
   .protocol {
     font-size: 14px;
     margin-bottom: 14px;
-    color: #fff;
+    color: #000;
     margin-left:6px;
     margin-right:6px;
-    background-color: black;
+    background-color: fff;
   }
   .bt {
     font-size: 20px;
