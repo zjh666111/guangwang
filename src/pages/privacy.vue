@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'ShowU'
+const appName = 'CosChat'
 </script>
 
 <template>
