@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Flush'
+const appName = 'SuperShow'
 </script>
 
 <template>
