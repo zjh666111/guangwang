@@ -220,7 +220,7 @@ const appName = 'SuperShow'
       responsible or liable for losses incurred by you arising from services,
       products, behavior of third party.
     </div>
-    <div class="T_title">
+    <!-- <div class="T_title">
       6.Membership
     </div>
     <div class="T_content">
@@ -297,33 +297,33 @@ const appName = 'SuperShow'
       for the Service if necessary, as required by this Agreement. Standard usage charges for SMS, MMS, and other data charges may apply and may be billed on your
       wireless service bill or deducted from your prepaid balance.
       <br><br>
-    </div>
+    </div> -->
     <div class="T_title">
-      8. Data Storage
+      6. Data Storage
     </div>
     <div class="T_content">
-      8.1 We are not responsible for the deleting or storage failure of your
+      6.1 We are not responsible for the deleting or storage failure of your
       data in this Service.
       <br><br>
-      8.2 We can determine the maximum storage time length and storage space of
+      6.2 We can determine the maximum storage time length and storage space of
       your data in the Service according to various factors.You can back up the
       relevant data of this Service according to your own needs.
       <br><br>
-      8.3 If you discontinue using the Service, or if the Service is terminated
+      6.3 If you discontinue using the Service, or if the Service is terminated
       or ended,we can permanently delete your data from our server, and we are
       not obligated to return any data to you.
       <br><br>
-      8.4 You can modify or delete your personal data, registration information
+      6.4 You can modify or delete your personal data, registration information
       and Content uploaded, distributed by you.Please note that deleting
       relative information will lead to delete of Contents stored in the
       system.You are responsible for this risk.
       <br><br>
     </div>
     <div class="T_title">
-      9.Risk
+      7.Risk
     </div>
     <div class="T_content">
-      9.1 You understand and agree that the Software only provides you with a
+      7.1 You understand and agree that the Software only provides you with a
       platform for inform ation sharing, transmission.You are responsible for
       all actions under your Account,including any content you transmit and any
       consequences resulted.You should personally judge the content of the
@@ -332,29 +332,29 @@ const appName = 'SuperShow'
       completeness or usefulness of the Content.We cannot and will not be liable
       for any losses caused by your behavior.
       <br><br>
-      9.2 If you find anyone who violates this agreement or uses the Service in
+      7.2 If you find anyone who violates this agreement or uses the Service in
       other improper ways,please tell us immediately and we will deal with them
       according to this Agreement.
       <br><br>
-      9.3 You understand and agree that we reserve the right to
+      7.3 You understand and agree that we reserve the right to
       change,suspend,terminate,update all or an feature of the Service in our
       sole discretion according to various factors without prior notice.
       <br><br>
     </div>
     <div class="T_title">
-      10. Intellectual Property
+      8. Intellectual Property
     </div>
     <div class="T_content">
-      10.1 You acknowledge that intellectual property rights in and relating to
+      8.1 You acknowledge that intellectual property rights in and relating to
       our Services(other than Content which is contributed and owned by
       advertisers) is owned by us,unless you have legally acquired intellectual
       property rights in the Content posted by you on our Software before using
       our Services.
       <br><br>
-      10.2 Unless otherwise provided,the copyright,patent and other intellectual
+      8.2 Unless otherwise provided,the copyright,patent and other intellectual
       property rights of the Software are owned by us.
       <br><br>
-      10.3 the copyright or trademark rights of the graphics, text or its
+      8.3 the copyright or trademark rights of the graphics, text or its
       components involved in the Service,and other Software logos and product
       and Service names (hereinafter collectively referred to as the "Software
       Logo"),are owned by us.You are not allowed to display or use the Software
@@ -362,12 +362,12 @@ const appName = 'SuperShow'
       indicate to others that you have the right to display, use, or otherwise
       modify with the Software logo.
       <br><br>
-      10.4 The above and any other intellectual property rights owned by us or
+      8.4 The above and any other intellectual property rights owned by us or
       related advertisers are protected by law and you are not allowed to use or
       create derivative works in any form without the written permission of us
       or the relevant advertisers.
       <br><br>
-      10.5 Unless otherwise agreed in writing by the company and you/your
+      8.5 Unless otherwise agreed in writing by the company and you/your
       agent,you own the intellectual property rights in connection with Content
       uploaded by you such as text,images,videos, audio,photograph,and you agree
       to authorize us and our affiliates a irrevocable, permanent
@@ -381,41 +381,41 @@ const appName = 'SuperShow'
       edit,disseminate.
     </div>
     <div class="T_title">
-      11. Liability
+      9. Liability
     </div>
     <div class="T_content">
-      11.1 If you have illegal,wrongful,defaulting, tort act,we have the right
+      9.1 If you have illegal,wrongful,defaulting, tort act,we have the right
       in our sole discretion to take any or all of the following measures:to
       give a warning,to disable your ability to use some features,terminate your
       access to the Software,put you into blacklist,announce your default act,
       to deduct,withhold virtual items and virtual gains in part or in whole.If
       we adopt to terminate your Account,put you into blacklist,we have the
       right not to refund your virtual items, and gains. <br><br>
-      11.2 You understand and agree that we have right to take any remedy
+      9.2 You understand and agree that we have right to take any remedy
       measures, appropriate legal action against your
       illegal,wrongful,defaulting,tort act, and disclose relevant information to
       authorities in accordance with laws and regulations and you shall bear all
       results.
       <br><br>
-      11.3 You understand and agree that any losses, damages, claims of third
+      9.3 You understand and agree that any losses, damages, claims of third
       party arising out of your violation of this Agreement,shall be paid by
       you,including reasonable attorney's fees.
       <br><br>
-      11.4 You agree to indemnify,defend and hold harmless us,our affiliates
+      9.4 You agree to indemnify,defend and hold harmless us,our affiliates
       from and against any and all
       comolaints.demands.claims.damages.losses.costs.liabilities and
       expenses,including but not limited to attorney's fees, arising out of your
       access to or use of the Service,your breach of this Agreement.
       <br><br>
-      11.5 We have the right to choose to apply the aforesaid rem edy measures
+      9.5 We have the right to choose to apply the aforesaid rem edy measures
       separately or collectively.
       <br><br>
     </div>
     <div class="T_title">
-      12.Force Majeure And Other Disclaimers
+      10.Force Majeure And Other Disclaimers
     </div>
     <div class="T_content">
-      12.1 You understand and acknowledge that in the course of using the
+      10.1 You understand and acknowledge that in the course of using the
       Service, you may encounter problems out of our control, which m ay cause
       the Service to be interrupted.W e are not liable for any Service
       suspension,problems,losses out of our control and expectation,for example
@@ -424,7 +424,7 @@ const appName = 'SuperShow'
       the event aforesaid,we will try our best to cooperate and to repair in
       time.
       <br><br>
-      12.2 We make no promises or guarantees that the Services will always
+      10.2 We make no promises or guarantees that the Services will always
       safe,reliable,be available,uninterrupted,or error-free or not-delay.TO THE
       EXTENT PERMITTED BY APPLICABLE LAW,WE MAKE NO WARRANTIES,CONDITIONS,OR
       OTHER TERMS OF ANY KIND,EITHER EXPRESS OR IMPLIED,ABOUT THE SERVICES.WE
@@ -435,7 +435,7 @@ const appName = 'SuperShow'
       offline) and any content they share (including
       offensive,indecent,obscene,illegal, and other contentious content).
       <br><br>
-      12.3 Like most Internet Services, our Service may be affected by various
+      10.3 Like most Internet Services, our Service may be affected by various
       security issues, including but not limited to internet Service
       quality,social environment, other software,websites you
       download,install,visit may contain viruses such as "Trojan horses" that
@@ -444,33 +444,33 @@ const appName = 'SuperShow'
       of information security and user data, and pay attention to strengthen
       password protection to avoid loss and harassment.
       <br><br>
-      12.4 You understand and acknowledge that the Service has interruptions due
+      10.4 You understand and acknowledge that the Service has interruptions due
       to unavoidable issues,computer virus or hacking,system instability,your
       location,your shutdown,and any other technology problems,internet
       problems,telecom operate problems,etc.We shall not be liable for any
       losses caused due to the aforesaid interruptions.
       <br><br>
-      12.5 You understand and acknowledge that there may be some misleading,
+      10.5 You understand and acknowledge that there may be some misleading,
       deceptive, threatening, defamatory, offensive or illegal information,or
       infringement information of the rights of others in the course of using
       the Service.We do not assume any responsibility for any losses of you or
       any third party resulting from aforesaid information or act.
       <br><br>
-      12.6 You understand and acknowledged that we may maintain,update,and
+      10.6 You understand and acknowledged that we may maintain,update,and
       repair features or this Software on a regular or irregular basis. If the
       service is interrupted within a reasonable period of time due to such
       circumstances with prior notice,we shall not be liable for this.
       <br><br>
-      12.7 Unless otherwise provided by law and regulation,we have rights but no
+      10.7 Unless otherwise provided by law and regulation,we have rights but no
       obligation to handle any defaulting, tort, illegal act of third party and
       we cannot guarantee that the foresaid defaulting,tort,illegal act of third
       party shall be found,handled in times.
       <br><br>
-      12.8 You understand and acknowledge that we are not responsible for any
+      10.8 You understand and acknowledge that we are not responsible for any
       defects in the quality of the products or Services offered to you and any
       damages caused by the free products or Services gifted to you.
       <br><br>
-      12.9 NOTWITHSTANDING OTHERWISE PROVIDED IN THIS AGREEMENT,YOU ACKNOWLEDGE
+      10.9 NOTWITHSTANDING OTHERWISE PROVIDED IN THIS AGREEMENT,YOU ACKNOWLEDGE
       THAT WE ARE NOT LIABLEFOR ANY INDIRECT,INCIDENTAL,SPECIAL, EXEMPLARY,OR
       CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS,GOODWILL,OR DATA, IN
       ANY WAY WHATSOEVER ARISING OUT OF THE USE OF,OR INABILITY TO USE,THE
@@ -479,34 +479,34 @@ const appName = 'SuperShow'
       REMEDY,LIABILITIES,REGARDLESS OF ANY MANNER, REASON,SHALL NOT EXCEED ALL
       FEES PAID BY TO US (IF APPLICABLE)
       <br><br>
-      12.10 You acknowledge and understand that there may be personal and
+      10.10 You acknowledge and understand that there may be personal and
       property security and transaction dispute risks if you meet,trade with
       other users offline, off the platform.We are not liable for the above
       risks or losses, and you must bear all responsibility.
       <br><br>
     </div>
     <div class="T_title">
-      13.Miscellaneous
+      11.Miscellaneous
     </div>
     <div class="T_content">
-      13.1 We remind you to read this Agreement carefully, especially clauses in
+      11.1 We remind you to read this Agreement carefully, especially clauses in
       connection with disclaimer, risks, limitation of you rights and our
       liability. If you are a minor,pleases read with accompany of your
       guardian(s).
       <br><br>
-      13.2 You understand and agree that other statements, rules published by us
+      11.2 You understand and agree that other statements, rules published by us
       in the software are deemed to be supplemental to these rules and are an
       integral part of these Rules and have the same legal effect as this
       Agreement.
       <br><br>
-      13.3 This Agreement shall be governed by, and construed in all respects in
+      11.3 This Agreement shall be governed by, and construed in all respects in
       accordance with, the laws of the Hong Kong SAR. Any dispute arising out of
       or in connection with this Agreement, including any question regarding its
       existence,validity or termination,shall be referred to and finally
       resolved by arbitration administered by the Hong Kong International
       Arbitration Centre in accordance with the Arbitration Rules.
       <br><br>
-      13.4 The invalidity or unenforceability of any provision of this Agreement
+      11.4 The invalidity or unenforceability of any provision of this Agreement
       shall not in any way affect or impair the validity or enforceability of
       the remaining provisions.If any provision of this Agreement is declared
       invalid or unenforceable by competent authorities,the Parties shall use
