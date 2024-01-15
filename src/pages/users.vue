@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'SuperShow'
+const appName = 'SociClub'
 </script>
 
 <template>
