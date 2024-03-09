@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Cord'
+const appName = 'HookHub'
 </script>
 
 <template>
