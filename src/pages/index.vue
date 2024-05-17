@@ -10,7 +10,7 @@ defineOptions({
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
       <div rd-2 bg-transparent p-2 p-x-4 text-5 style="color: #28A65E;">
-        ikergianatgvn360@gmail.com
+        ikergianatgvn360@gmail.com1
       </div>
     </div>
   </div>
